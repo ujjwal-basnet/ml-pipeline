@@ -1,15 +1,3 @@
 /model.pkl
 /metrics.json
 
-# Ignore directories
-data/
-.dvc/
-.vscode/
-
-# Ignore files
-dvc.lock
-dvc.yaml
-params.yaml
-test-language.code-workspace
-.dvcignore
-

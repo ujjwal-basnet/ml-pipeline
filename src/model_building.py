@@ -10,7 +10,7 @@ x_train = train_data.iloc[: , 0:-1]
 y_train = train_data.iloc[: , -1]
 
 #define model and train
-clf = GradientBoostingClassifier(n_estimators= 50)
+clf = GradientBoostingClassifier(n_estimators= 50,learning_rate= 0.1)
 clf.fit(x_train , y_train)
 
 #save 
