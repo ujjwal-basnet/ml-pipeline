@@ -8,8 +8,10 @@ import nltk
 import string
 from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer, WordNetLemmatizer
+
 train_data = pd.read_csv(os.path.join('data' , 'raw' , 'train.csv'))
 test_data = pd.read_csv(os.path.join('data' ,'raw' , 'test.csv'))
+
 nltk.download('wordnet')
 nltk.download('stopwords')
 
@@ -85,3 +87,6 @@ path = os.path.join('data' , 'processed')
 os.makedirs(path, exist_ok= True)
 train_processed_data.to_csv(os.path.join(path ,'train_processed.csv' ))
 test_processed_data.to_csv(os.path.join(path ,'test_processed.csv' ))
+
+
+

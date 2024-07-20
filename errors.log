@@ -1,0 +1,2 @@
+2024-07-20 12:55:44,584 - data_ingestion - ERROR - Error loading parameters: [Errno 2] No such file or directory: 'param1.yaml'
+2024-07-20 12:55:44,584 - data_ingestion - CRITICAL - An error occurred during data ingestion: [Errno 2] No such file or directory: 'param1.yaml'

@@ -1,0 +1,35 @@
+2024-07-20 11:39:43,420 - data_ingestion_logger - DEBUG - This is a debug message
+2024-07-20 11:39:43,422 - data_ingestion_logger - INFO - This is an info message
+2024-07-20 11:39:43,422 - data_ingestion_logger - WARNING - This is a warning message
+2024-07-20 11:39:43,423 - data_ingestion_logger - ERROR - This is an error message
+2024-07-20 11:39:43,423 - data_ingestion_logger - CRITICAL - This is a critical message
+2024-07-20 11:40:27,918 - data_ingestion_logger - DEBUG - This is debug message
+2024-07-20 11:40:27,920 - data_ingestion_logger - INFO - this is info message
+2024-07-20 11:40:27,921 - data_ingestion_logger - WARNING - this is warning
+2024-07-20 11:40:27,923 - data_ingestion_logger - ERROR - this is error message
+2024-07-20 11:40:27,932 - data_ingestion_logger - CRITICAL - this is a critical message
+2024-07-20 11:41:11,432 - data_ingestion_logger - DEBUG - This is a debug message
+2024-07-20 11:41:11,433 - data_ingestion_logger - INFO - This is an info message
+2024-07-20 11:41:11,433 - data_ingestion_logger - WARNING - This is a warning message
+2024-07-20 11:41:11,438 - data_ingestion_logger - ERROR - This is an error message
+2024-07-20 11:41:11,441 - data_ingestion_logger - CRITICAL - This is a critical message
+2024-07-20 11:49:04,297 - data_ingestion_logger - DEBUG - This is a debug message
+2024-07-20 11:49:04,301 - data_ingestion_logger - INFO - This is an info message
+2024-07-20 11:49:04,304 - data_ingestion_logger - WARNING - This is a warning message
+2024-07-20 11:49:04,304 - data_ingestion_logger - ERROR - This is an error message
+2024-07-20 11:49:04,309 - data_ingestion_logger - CRITICAL - This is a critical message
+2024-07-20 11:49:12,770 - data_ingestion_logger - DEBUG - This is a debug message
+2024-07-20 11:49:12,771 - data_ingestion_logger - INFO - This is an info message
+2024-07-20 11:49:12,774 - data_ingestion_logger - WARNING - This is a warning message
+2024-07-20 11:49:12,779 - data_ingestion_logger - ERROR - This is an error message
+2024-07-20 11:49:12,783 - data_ingestion_logger - CRITICAL - This is a critical message
+2024-07-20 11:49:23,762 - data_ingestion_logger - DEBUG - This is a debug message
+2024-07-20 11:49:23,766 - data_ingestion_logger - INFO - This is an info message
+2024-07-20 11:49:23,770 - data_ingestion_logger - WARNING - This is a warning message
+2024-07-20 11:49:23,775 - data_ingestion_logger - ERROR - This is an error message
+2024-07-20 11:49:23,777 - data_ingestion_logger - CRITICAL - This is a critical message
+2024-07-20 11:49:24,676 - data_ingestion_logger - DEBUG - This is a debug message
+2024-07-20 11:49:24,678 - data_ingestion_logger - INFO - This is an info message
+2024-07-20 11:49:24,682 - data_ingestion_logger - WARNING - This is a warning message
+2024-07-20 11:49:24,687 - data_ingestion_logger - ERROR - This is an error message
+2024-07-20 11:49:24,691 - data_ingestion_logger - CRITICAL - This is a critical message

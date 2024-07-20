@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "test-language",
+			"path": "E:/test-language"
+		},
+		{
+			"name": "ujjwal",
+			"path": "../ujjwal"
+		},
+		{
+			"name": "ml-pipeline-demo",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
